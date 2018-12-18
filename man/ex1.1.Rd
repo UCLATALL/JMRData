@@ -3,7 +3,7 @@
 \docType{data}
 \name{ex1.1}
 \alias{ex1.1}
-\title{Data for Example 1.1}
+\title{Exhibit 1.1}
 \format{A data frame with 50 observations of 3 variables:
 \describe{
   \item{State}{The two-letter abbreviation of the state.}

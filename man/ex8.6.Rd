@@ -3,7 +3,7 @@
 \docType{data}
 \name{ex8.6}
 \alias{ex8.6}
-\title{Data for Example 8.6}
+\title{Exhibit 8.6}
 \format{A data frame with 24 observations of 2 variables:
 \describe{
   \item{Condition}{Feeback given: failure, none, success}

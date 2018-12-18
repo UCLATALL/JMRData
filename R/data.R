@@ -1,4 +1,4 @@
-#' Data for Example 1.1
+#' Exhibit 1.1
 #'
 #' Internet access rates for each of the 50 U.S. states.
 #'
@@ -12,7 +12,7 @@
 #' }
 "ex1.1"
 
-#' Data for Example 4.1
+#' Exhibit 4.1
 #'
 #' Lottery bids for 20 bidders in hypothetical lottery.
 #'
@@ -32,7 +32,7 @@
 #' }
 "lottery"
 
-#' Data for Example 5.1
+#' Exhibit 5.1
 #'
 #' Internet access rates and college education rates for each of the 50 U.S. states.
 #'
@@ -46,7 +46,7 @@
 #' }
 "ex5.1"
 
-#' Data for Example 6.2
+#' Exhibit 6.2
 #'
 #' Sex, age (years), height (in.), and weight (lbs.) of 19 middle school students.
 #'
@@ -60,7 +60,7 @@
 #' }
 "ex6.2"
 
-#' Data for Example 7.2
+#' Exhibit 7.2
 #'
 #' Running time, age, and miles of training per week for hypothetical runners.
 #'
@@ -72,7 +72,7 @@
 #' }
 "ex7.2"
 
-#' Data for Example 8.1
+#' Exhibit 8.1
 #'
 #' SAT scores for two groups of student who did or did not take a prep course.
 #'
@@ -84,7 +84,7 @@
 #' }
 "ex8.1"
 
-#' Data for Example 8.6
+#' Exhibit 8.6
 #'
 #' Subsequent tasks completed after different types of feedback on a previous task.
 #'
@@ -95,7 +95,7 @@
 #' }
 "ex8.6"
 
-#' Data for Example 8.13
+#' Exhibit 8.13
 #'
 #' GRE scores from students in one of three training programs in psychology.
 #'
@@ -106,7 +106,7 @@
 #' }
 "ex8.13"
 
-#' Data for Example 8.15
+#' Exhibit 8.15
 #'
 #' Scores on standardized arithmetic test for hypothetical schoolchildren.
 #'
@@ -117,7 +117,7 @@
 #' }
 "ex8.15"
 
-#' Data for Example 9.1
+#' Exhibit 9.1
 #'
 #' Mood scores from a drug x psychotherapy (treatment, control) factorial design.
 #'
@@ -129,7 +129,7 @@
 #' }
 "ex9.1"
 
-#' Data for Example 10.1
+#' Exhibit 10.1
 #'
 #' Acheivement and pretest scores for students under different curricula and teachers (effect coded groups).
 #'
@@ -142,7 +142,7 @@
 #' }
 "ex10.1"
 
-#' Data for Example 10.8
+#' Exhibit 10.8
 #'
 #' Modified version of ex10.1.txt; see textbook for explanation.
 #'
@@ -157,7 +157,7 @@
 #' }
 "ex10.8"
 
-#' Data for Example 10.12
+#' Exhibit 10.12
 #'
 #' Psychological symptoms and number of criticisms across two conditions.
 #'
@@ -169,7 +169,7 @@
 #' }
 "ex10.12"
 
-#' Data for Example 11.1
+#' Exhibit 11.1
 #'
 #' Three within-group scores for two levels of competition.
 #'
@@ -183,7 +183,7 @@
 #' }
 "ex11.1"
 
-#' Data for Example 11.9
+#' Exhibit 11.9
 #'
 #' Data for crossed design (experimenter present or absent)
 #'
@@ -197,7 +197,7 @@
 #' }
 "ex11.9"
 
-#' Data for Example 11.17
+#' Exhibit 11.17
 #'
 #' Data for a 3 x 2 within-subject design
 #'
@@ -215,7 +215,7 @@
 #' }
 "ex11.17"
 
-#' Data for Example 11.22
+#' Exhibit 11.22
 #'
 #' Scores for husbands and wives by couple with years married and child status.
 #'
@@ -231,7 +231,7 @@
 #' }
 "ex11.22"
 
-#' Data for Example 13.1
+#' Exhibit 13.1
 #'
 #' SAT and high school ranks with and without an outlier induced by reversing variable values for one observations.
 #'

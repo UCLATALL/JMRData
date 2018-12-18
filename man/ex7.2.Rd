@@ -3,7 +3,7 @@
 \docType{data}
 \name{ex7.2}
 \alias{ex7.2}
-\title{Data for Example 7.2}
+\title{Exhibit 7.2}
 \format{A data frame with 80 observations of 3 variables:
 \describe{
   \item{TIME}{Amount of time spent running per week}

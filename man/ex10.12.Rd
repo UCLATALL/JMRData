@@ -3,7 +3,7 @@
 \docType{data}
 \name{ex10.12}
 \alias{ex10.12}
-\title{Data for Example 10.12}
+\title{Exhibit 10.12}
 \format{A data frame with 6 observations of 5 variables:
 \describe{
   \item{Condition}{Whether the participant was in the treatment or control group}

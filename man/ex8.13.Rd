@@ -3,7 +3,7 @@
 \docType{data}
 \name{ex8.13}
 \alias{ex8.13}
-\title{Data for Example 8.13}
+\title{Exhibit 8.13}
 \format{A data frame with 18 observations of 2 variables:
 \describe{
   \item{Program}{The program: clinical, developmental, or social}

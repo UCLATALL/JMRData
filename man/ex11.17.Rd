@@ -3,7 +3,7 @@
 \docType{data}
 \name{ex11.17}
 \alias{ex11.17}
-\title{Data for Example 11.17}
+\title{Exhibit 11.17}
 \format{A data frame with 5 observations of 7 variables:
 \describe{
   \item{Subject}{}

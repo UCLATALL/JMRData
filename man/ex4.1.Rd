@@ -3,7 +3,7 @@
 \docType{data}
 \name{ex4.1}
 \alias{ex4.1}
-\title{Data for Example 4.1}
+\title{Exhibit 4.1}
 \format{A data frame with 20 observations of 1 variable:
 \describe{
   \item{bids}{Bid in dollars.}

@@ -3,7 +3,7 @@
 \docType{data}
 \name{ex5.1}
 \alias{ex5.1}
-\title{Data for Example 5.1}
+\title{Exhibit 5.1}
 \format{A data frame with 50 observations of 3 variables:
 \describe{
   \item{State}{}

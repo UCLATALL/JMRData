@@ -3,7 +3,7 @@
 \docType{data}
 \name{ex10.8}
 \alias{ex10.8}
-\title{Data for Example 10.8}
+\title{Exhibit 10.8}
 \format{A data frame with 40 observations of 4 variables:
 \describe{
   \item{score}{The student's achievement score}

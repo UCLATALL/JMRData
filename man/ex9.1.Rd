@@ -3,7 +3,7 @@
 \docType{data}
 \name{ex9.1}
 \alias{ex9.1}
-\title{Data for Example 9.1}
+\title{Exhibit 9.1}
 \format{A data frame with 50 observations of 3 variables:
 \describe{
   \item{Drug}{The drug given: A, B, or Placebo}

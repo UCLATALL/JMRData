@@ -3,7 +3,7 @@
 \docType{data}
 \name{ex8.15}
 \alias{ex8.15}
-\title{Data for Example 8.15}
+\title{Exhibit 8.15}
 \format{A data frame with 15 observations of 2 variables:
 \describe{
   \item{Grade}{Student's current grade in school: 4, 5, or 6}
