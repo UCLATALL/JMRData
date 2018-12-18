@@ -6,16 +6,16 @@
 \title{Data for Example 11.1}
 \format{A data frame with 6 observations of 5 variables:
 \describe{
-  \item{group}{}
-  \item{instructions}{}
-  \item{score1}{}
-  \item{score2}{}
-  \item{score3}{}
+  \item{group}{Group ID}
+  \item{instructions}{Whether the participants were instructed they were in \code{competition} or not (\code{none})}
+  \item{score1}{Score on first trial}
+  \item{score2}{Score on second trial}
+  \item{score3}{Score on third trial}
 }}
 \usage{
 ex11.1
 }
 \description{
-[Some description here]
+Three within-group scores for two levels of competition.
 }
 \keyword{datasets}

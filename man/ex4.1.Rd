@@ -6,12 +6,12 @@
 \title{Data for Example 4.1}
 \format{A data frame with 20 observations of 1 variable:
 \describe{
-  \item{bids}{}
+  \item{bids}{Bid in dollars.}
 }}
 \usage{
 ex4.1
 }
 \description{
-[Some description here]
+Lottery bids for 20 bidders in hypothetical lottery.
 }
 \keyword{datasets}

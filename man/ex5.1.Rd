@@ -14,6 +14,9 @@
 ex5.1
 }
 \description{
-[Some description here]
+Internet access rates and college education rates for each of the 50 U.S. states.
+}
+\details{
+TODO: what are the units of the rates?
 }
 \keyword{datasets}

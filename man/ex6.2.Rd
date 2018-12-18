@@ -6,16 +6,16 @@
 \title{Data for Example 6.2}
 \format{A data frame with 19 observations of 5 variables:
 \describe{
-  \item{Name}{}
-  \item{Sex}{}
-  \item{Age}{}
-  \item{Height}{}
-  \item{Weight}{}
+  \item{Name}{Student's name}
+  \item{Sex}{Sex of the student: coded as F or M}
+  \item{Age}{Age of the student in years}
+  \item{Height}{Height of the student in inches}
+  \item{Weight}{Weight of the student in pounds}
 }}
 \usage{
 ex6.2
 }
 \description{
-[Some description here]
+Sex, age (years), height (in.), and weight (lbs.) of 19 middle school students.
 }
 \keyword{datasets}

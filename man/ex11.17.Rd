@@ -18,6 +18,9 @@
 ex11.17
 }
 \description{
-[Some description here]
+Data for a 3 x 2 within-subject design
+}
+\details{
+TODO: what was the experiment?
 }
 \keyword{datasets}

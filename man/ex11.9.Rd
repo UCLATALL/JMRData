@@ -6,7 +6,7 @@
 \title{Data for Example 11.9}
 \format{A data frame with 8 observations of 3 variables:
 \describe{
-  \item{subject}{}
+  \item{subject}{Subject ID}
   \item{absent}{}
   \item{present}{}
 }}
@@ -14,6 +14,9 @@
 ex11.9
 }
 \description{
-[Some description here]
+Data for crossed design (experimenter present or absent)
+}
+\details{
+TODO: What do the scores represent?
 }
 \keyword{datasets}

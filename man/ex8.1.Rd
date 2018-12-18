@@ -6,14 +6,14 @@
 \title{Data for Example 8.1}
 \format{A data frame with 20 observations of 3 variables:
 \describe{
-  \item{Student}{}
-  \item{Group}{}
-  \item{SAT}{}
+  \item{Student}{Student ID}
+  \item{Group}{Whether the students took the \code{course} or not \code{noCourse}}
+  \item{SAT}{Score on the SAT}
 }}
 \usage{
 ex8.1
 }
 \description{
-[Some description here]
+SAT scores for two groups of student who did or did not take a prep course.
 }
 \keyword{datasets}

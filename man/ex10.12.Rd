@@ -6,14 +6,14 @@
 \title{Data for Example 10.12}
 \format{A data frame with 6 observations of 5 variables:
 \describe{
-  \item{Condition}{}
-  \item{Criticism}{}
-  \item{Symptoms}{}
+  \item{Condition}{Whether the participant was in the treatment or control group}
+  \item{Criticism}{Number of criticisms}
+  \item{Symptoms}{Number of symptoms}
 }}
 \usage{
 ex10.12
 }
 \description{
-[Some description here]
+Psychological symptoms and number of criticisms across two conditions.
 }
 \keyword{datasets}

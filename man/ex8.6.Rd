@@ -6,13 +6,13 @@
 \title{Data for Example 8.6}
 \format{A data frame with 24 observations of 2 variables:
 \describe{
-  \item{Condition}{}
-  \item{Task}{}
+  \item{Condition}{Feeback given: failure, none, success}
+  \item{Task}{Score on the task}
 }}
 \usage{
 ex8.6
 }
 \description{
-[Some description here]
+Subsequent tasks completed after different types of feedback on a previous task.
 }
 \keyword{datasets}

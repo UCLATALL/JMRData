@@ -6,14 +6,14 @@
 \title{Data for Example 9.1}
 \format{A data frame with 50 observations of 3 variables:
 \describe{
-  \item{Drug}{}
-  \item{Psychotherapy}{}
-  \item{Mood}{}
+  \item{Drug}{The drug given: A, B, or Placebo}
+  \item{Psychotherapy}{Type of psychotherapy administered: treatment or control}
+  \item{Mood}{Patient's mood score}
 }}
 \usage{
 ex9.1
 }
 \description{
-[Some description here]
+Mood scores from a drug x psychotherapy (treatment, control) factorial design.
 }
 \keyword{datasets}

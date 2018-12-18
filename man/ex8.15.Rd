@@ -6,13 +6,13 @@
 \title{Data for Example 8.15}
 \format{A data frame with 15 observations of 2 variables:
 \describe{
-  \item{Grade}{}
-  \item{Score}{}
+  \item{Grade}{Student's current grade in school: 4, 5, or 6}
+  \item{Score}{Student's score on the test}
 }}
 \usage{
 ex8.15
 }
 \description{
-[Some description here]
+Scores on standardized arithmetic test for hypothetical schoolchildren.
 }
 \keyword{datasets}

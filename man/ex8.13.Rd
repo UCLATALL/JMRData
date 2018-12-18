@@ -6,13 +6,13 @@
 \title{Data for Example 8.13}
 \format{A data frame with 18 observations of 2 variables:
 \describe{
-  \item{Program}{}
-  \item{GRE}{}
+  \item{Program}{The program: clinical, developmental, or social}
+  \item{GRE}{Student's GRE score}
 }}
 \usage{
 ex8.13
 }
 \description{
-[Some description here]
+GRE scores from students in one of three training programs in psychology.
 }
 \keyword{datasets}

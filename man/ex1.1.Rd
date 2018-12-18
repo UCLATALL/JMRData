@@ -6,7 +6,7 @@
 \title{Data for Example 1.1}
 \format{A data frame with 50 observations of 3 variables:
 \describe{
-  \item{State}{}
+  \item{State}{The two-letter abbreviation of the state.}
   \item{Internet}{}
   \item{College}{}
 }}
@@ -14,6 +14,9 @@
 ex1.1
 }
 \description{
-[Some description here]
+Internet access rates for each of the 50 U.S. states.
+}
+\details{
+TODO: what are the units of the rates?
 }
 \keyword{datasets}

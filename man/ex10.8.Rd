@@ -6,15 +6,18 @@
 \title{Data for Example 10.8}
 \format{A data frame with 40 observations of 4 variables:
 \describe{
-  \item{score}{}
-  \item{curriculum}{}
-  \item{teacher}{}
-  \item{pretest}{}
+  \item{score}{The student's achievement score}
+  \item{curriculum}{-1 = old, 1 = new}
+  \item{teacher}{-1 = A, 1 = B}
+  \item{pretest}{The student's score on a pretest}
 }}
 \usage{
 ex10.8
 }
 \description{
-[Some description here]
+Modified version of ex10.1.txt; see textbook for explanation.
+}
+\details{
+TODO: update explanation
 }
 \keyword{datasets}

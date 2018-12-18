@@ -6,15 +6,15 @@
 \title{Data for Example 10.1}
 \format{A data frame with 40 observations of 4 variables:
 \describe{
-  \item{score}{}
-  \item{curriculum}{}
-  \item{teacher}{}
-  \item{pretest}{}
+  \item{score}{The student's achievement score}
+  \item{curriculum}{-1 = old, 1 = new}
+  \item{teacher}{-1 = A, 1 = B}
+  \item{pretest}{The student's score on a pretest}
 }}
 \usage{
 ex10.1
 }
 \description{
-[Some description here]
+Acheivement and pretest scores for students under different curricula and teachers (effect coded groups).
 }
 \keyword{datasets}

@@ -7,8 +7,8 @@
 \format{A data frame with 16 observations of 5 variables:
 \describe{
   \item{couple}{}
-  \item{children}{}
-  \item{yearsmarried}{}
+  \item{children}{Does the couple have children? ys or no}
+  \item{yearsmarried}{Number of years married}
   \item{Male}{}
   \item{Female}{}
 }}
@@ -16,6 +16,9 @@
 ex11.22
 }
 \description{
-[Some description here]
+Scores for husbands and wives by couple with years married and child status.
+}
+\details{
+TODO: What are the couple, Male and Female scores?
 }
 \keyword{datasets}
