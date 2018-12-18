@@ -7,11 +7,21 @@ Note: we are NOT affiliated with the authors. These datasets can all be download
 the [book's companion website](http://www.dataanalysisbook.com/datasetsInTextbook.html). They have been added
 here as an R package for convenience when following along in the textbook.
 
-# Installing
 This package is not (yet) on CRAN. You can download it using `devtools`:
-```
+```{r}
 library(devtools)
 install_github("https://github.com/UCLATALL/JMRData")
+```
+
+# supernova
+If you are interested in these datasets or use the textbook, you will probably also be interested in the [`supernova` package](https://github.com/UCLATALL/supernova). The `supernova` package is designed to output ANOVA tables in the same format as the textbook (i.e. including PRE, calculated with type III sums of squares, etc.). `supernova` can be downloaded from CRAN or from GitHub:
+```{r}
+# from CRAN (may not be up-to-date)
+install.packages("supernova")
+
+# from GitHub
+library(devtools)
+install_github("https://github.com/UCLATALL/supernova")
 ```
 
 # Contributing
