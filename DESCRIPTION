@@ -1,0 +1,16 @@
+Package: JMRData
+Type: Package
+Title: Datasets for "Data Analysis: A Model Comparison Approach to Regression, ANOVA, and Beyond"
+Version: 0.1.0
+Date: 2018-12-17
+Authors@R: person("Adam", "Blake", email = "theadamattack@gmail.com", role = c("cre", "aut"))
+Description: Datasets for "Data Analysis: A Model Comparison Approach to Regression, ANOVA, and Beyond" by Judd, McClelland, and Ryan (2017, ISBN:978-1138819832).
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 2.10)
+Suggests: 
+    supernova
+RoxygenNote: 6.1.1
+URL: https://github.com/UCLATALL/JMRData
+BugReports: https://github.com/UCLATALL/JMRData/issues
