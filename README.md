@@ -10,7 +10,7 @@ here as an R package for convenience when following along in the textbook.
 This package is not (yet) on CRAN. You can download it using `devtools`:
 ```{r}
 library(devtools)
-install_github("https://github.com/UCLATALL/JMRData")
+install_github("UCLATALL/JMRData")
 ```
 
 # supernova
