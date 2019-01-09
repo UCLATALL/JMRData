@@ -11,7 +11,7 @@ Placebo   Treatment     16
 DrugA     Control       17
 DrugA     Control       15
 DrugA     Control       19
-DrugB     Control       23 
+DrugB     Control       23
 DrugB     Control       18
 DrugB     Control       16
 Placebo   Control        9

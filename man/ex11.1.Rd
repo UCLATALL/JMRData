@@ -4,18 +4,25 @@
 \name{ex11.1}
 \alias{ex11.1}
 \title{Exhibit 11.1}
-\format{A data frame with 6 observations of 5 variables:
+\format{A data frame with 6 observations of 5 variables.
 \describe{
-  \item{group}{Group ID}
-  \item{instructions}{Whether the participants were instructed they were in \code{competition} or not (\code{none})}
-  \item{score1}{Score on first trial}
-  \item{score2}{Score on second trial}
-  \item{score3}{Score on third trial}
+  \item{group}{The group ID}
+  \item{instructions}{Whether the group was in \code{competition} or not (\code{none})}
+  \item{score1}{The first participant's satisfaction score (1-9, 9 is high)}
+  \item{score2}{The second participant's satisfaction score (1-9, 9 is high)}
+  \item{score3}{The third participant's satisfaction score (1-9, 9 is high)}
 }}
+\source{
+<http://www.dataanalysisbook.com/datasetsInTextbook.html>
+}
 \usage{
 ex11.1
 }
 \description{
-Three within-group scores for two levels of competition.
+Hypothetical data for a nested design. Groups of 3 participants were asked to
+complete a task in the lab, and they were either told they were competing
+with other groups or not. After completing the task they rated their
+satisfaction with the group's work on a Likert scale (1 - 9, where 9 is most
+satisfied).
 }
 \keyword{datasets}

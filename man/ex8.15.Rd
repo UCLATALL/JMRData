@@ -4,15 +4,19 @@
 \name{ex8.15}
 \alias{ex8.15}
 \title{Exhibit 8.15}
-\format{A data frame with 15 observations of 2 variables:
+\format{A data frame with 15 observations of 2 variables.
 \describe{
   \item{Grade}{Student's current grade in school: 4, 5, or 6}
   \item{Score}{Student's score on the test}
 }}
+\source{
+<http://www.dataanalysisbook.com/datasetsInTextbook.html>
+}
 \usage{
 ex8.15
 }
 \description{
-Scores on standardized arithmetic test for hypothetical schoolchildren.
+Hypothetical scores on a standardized arithmetic test for children in fourth,
+fifth, and sixth grades.
 }
 \keyword{datasets}

@@ -3,13 +3,19 @@
 \docType{data}
 \name{lottery}
 \alias{lottery}
-\title{Lottery dataset}
-\format{A data frame with 20 observations of 1 variable:
+\alias{ex4.1}
+\title{Hypothetical lottery bids}
+\format{A data frame with 20 observations of 1 variable.
 \describe{
   \item{bids}{Bid in dollars.}
 }}
+\source{
+<http://www.dataanalysisbook.com/datasetsInTextbook.html>
+}
 \usage{
 lottery
+
+ex4.1
 }
 \description{
 Lottery bids for 20 bidders in hypothetical lottery.

@@ -4,20 +4,23 @@
 \name{ex10.8}
 \alias{ex10.8}
 \title{Exhibit 10.8}
-\format{A data frame with 40 observations of 4 variables:
+\format{A data frame with 40 observations of 4 variables.
 \describe{
   \item{score}{The student's achievement score}
   \item{curriculum}{-1 = old, 1 = new}
-  \item{teacher}{-1 = A, 1 = B}
-  \item{pretest}{The student's score on a pretest}
+  \item{teacher}{-1 = Teacher A, 1 = Teacher B}
+  \item{pretest}{The student's pretest achievement score}
 }}
+\source{
+<http://www.dataanalysisbook.com/datasetsInTextbook.html>
+}
 \usage{
 ex10.8
 }
 \description{
-Modified version of ex10.1.txt; see textbook for explanation.
-}
-\details{
-TODO: update explanation
+Acheivement and pretest scores for students under different curricula and
+teachers (effect coded groups). Similar to \code{\link{ex10.1}} except the
+pretest values are modified to have differences across the predictors
+\code{curriculum} and \code{teacher}.
 }
 \keyword{datasets}

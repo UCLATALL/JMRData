@@ -4,21 +4,25 @@
 \name{ex11.22}
 \alias{ex11.22}
 \title{Exhibit 11.22}
-\format{A data frame with 16 observations of 5 variables:
+\format{A data frame with 16 observations of 5 variables.
 \describe{
   \item{couple}{}
-  \item{children}{Does the couple have children? ys or no}
+  \item{children}{Does the couple have children? yes or no}
   \item{yearsmarried}{Number of years married}
-  \item{Male}{}
-  \item{Female}{}
+  \item{Male}{The husband's martial satisfaction (1 - 9, 9 is high)}
+  \item{Female}{The wife's martial satisfaction (1 - 9, 9 is high)}
 }}
+\source{
+<http://www.dataanalysisbook.com/datasetsInTextbook.html>
+}
 \usage{
 ex11.22
 }
 \description{
-Scores for husbands and wives by couple with years married and child status.
-}
-\details{
-TODO: What are the couple, Male and Female scores?
+Ratings of marital satisfaction (1 - 9, where 9 is the greatest
+satisfaction) for 16 couples. Half of the couples were married for 15 years
+and half for 30 years. In the 15-year marriages, the couples had either 2 or
+more young children living at home or not, and in the 30-year marriages the
+couples either had 2 or more children grown and living away from home or not.
 }
 \keyword{datasets}

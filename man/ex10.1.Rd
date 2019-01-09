@@ -4,17 +4,21 @@
 \name{ex10.1}
 \alias{ex10.1}
 \title{Exhibit 10.1}
-\format{A data frame with 40 observations of 4 variables:
+\format{A data frame with 40 observations of 4 variables.
 \describe{
   \item{score}{The student's achievement score}
   \item{curriculum}{-1 = old, 1 = new}
-  \item{teacher}{-1 = A, 1 = B}
-  \item{pretest}{The student's score on a pretest}
+  \item{teacher}{-1 = Teacher A, 1 = Teacher B}
+  \item{pretest}{The student's pretest achievement score}
 }}
+\source{
+<http://www.dataanalysisbook.com/datasetsInTextbook.html>
+}
 \usage{
 ex10.1
 }
 \description{
-Acheivement and pretest scores for students under different curricula and teachers (effect coded groups).
+Acheivement and pretest scores for students under different curricula and
+teachers (effect coded groups).
 }
 \keyword{datasets}

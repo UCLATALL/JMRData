@@ -4,21 +4,24 @@
 \name{ex13.1}
 \alias{ex13.1}
 \title{Exhibit 13.1}
-\format{A data frame with 13 observations of 5 variables:
+\format{A data frame with 13 observations of 5 variables.
 \describe{
   \item{student}{Student ID}
   \item{sat}{Student's SAT score}
   \item{hsrank}{Student's rank in high school}
-  \item{satr}{Reversed values of \code{sat}}
-  \item{hsrankr}{Reversed values of \code{hsrankr}}
+  \item{satr}{\code{sat} with student 6's score being their \code{hsrank}}
+  \item{hsrankr}{\code{hsrank} with student 6's score being their \code{sat}}
 }}
+\source{
+<http://www.dataanalysisbook.com/datasetsInTextbook.html>
+}
 \usage{
 ex13.1
 }
 \description{
-SAT and high school ranks with and without an outlier induced by reversing variable values for one observations.
-}
-\details{
-TODO: these don't appear to be reversed. Check textbook for description and method
+SAT verbal (\code{sat}) and and high school ranks (\code{hsrank}) for 13
+students. These columns are repeated in \code{satr} and \code{hsrankr} with
+the exception of student 6, where the SAT and rank have been reversed in the
+\code{satr} and \code{hsrankr} varibles to create an outlier.
 }
 \keyword{datasets}

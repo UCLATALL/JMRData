@@ -4,12 +4,15 @@
 \name{ex8.1}
 \alias{ex8.1}
 \title{Exhibit 8.1}
-\format{A data frame with 20 observations of 3 variables:
+\format{A data frame with 20 observations of 3 variables.
 \describe{
   \item{Student}{Student ID}
   \item{Group}{Whether the students took the \code{course} or not \code{noCourse}}
   \item{SAT}{Score on the SAT}
 }}
+\source{
+<http://www.dataanalysisbook.com/datasetsInTextbook.html>
+}
 \usage{
 ex8.1
 }

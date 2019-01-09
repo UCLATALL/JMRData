@@ -4,15 +4,22 @@
 \name{ex8.6}
 \alias{ex8.6}
 \title{Exhibit 8.6}
-\format{A data frame with 24 observations of 2 variables:
+\format{A data frame with 24 observations of 2 variables.
 \describe{
   \item{Condition}{Feeback given: failure, none, success}
-  \item{Task}{Score on the task}
+  \item{Task}{Number of tasks completed}
 }}
+\source{
+<http://www.dataanalysisbook.com/datasetsInTextbook.html>
+}
 \usage{
 ex8.6
 }
 \description{
-Subsequent tasks completed after different types of feedback on a previous task.
+Hypothetical experimental data for a motivation study where children perform
+a task, are given feedback, and then monitored for the number of tasks they
+subsequently complete. In one condition children were given feedback that
+they failed the task, other children were given no feedback, and in the last
+condition children were told they were successful.
 }
 \keyword{datasets}

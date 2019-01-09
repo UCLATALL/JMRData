@@ -4,16 +4,24 @@
 \name{ex10.12}
 \alias{ex10.12}
 \title{Exhibit 10.12}
-\format{A data frame with 6 observations of 5 variables:
+\format{A data frame with 6 observations of 5 variables.
 \describe{
-  \item{Condition}{Whether the participant was in the treatment or control group}
-  \item{Criticism}{Number of criticisms}
+  \item{Condition}{Whether the family was in the treatment or control group}
+  \item{Criticism}{Number of criticisms (1 to 5, where 5 is large)}
   \item{Symptoms}{Number of symptoms}
 }}
+\source{
+<http://www.dataanalysisbook.com/datasetsInTextbook.html>
+}
 \usage{
 ex10.12
 }
 \description{
-Psychological symptoms and number of criticisms across two conditions.
+Hypothetical data for a family counseling intervention targetted at reducing
+bipolar disorder symptoms in adolescents. Families either received the
+experimental intervention treatment or usual care. The number of symptoms the
+child show were recorded, as well as the rate and degree of criticism from
+parents towards the child on a five point scale (higher scores mean more
+criticism).
 }
 \keyword{datasets}

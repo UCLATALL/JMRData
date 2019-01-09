@@ -4,16 +4,19 @@
 \name{ex9.1}
 \alias{ex9.1}
 \title{Exhibit 9.1}
-\format{A data frame with 50 observations of 3 variables:
+\format{A data frame with 50 observations of 3 variables.
 \describe{
-  \item{Drug}{The drug given: A, B, or Placebo}
-  \item{Psychotherapy}{Type of psychotherapy administered: treatment or control}
+  \item{Drug}{The drug given: DrugA, DrugB, or Placebo}
+  \item{Psychotherapy}{Psychotherapy condition: Treatment or Control}
   \item{Mood}{Patient's mood score}
 }}
+\source{
+<http://www.dataanalysisbook.com/datasetsInTextbook.html>
+}
 \usage{
 ex9.1
 }
 \description{
-Mood scores from a drug x psychotherapy (treatment, control) factorial design.
+Hypothetical mood scores in a Drug (3) x Psychotherapy (2) factorial design.
 }
 \keyword{datasets}

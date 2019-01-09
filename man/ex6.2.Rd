@@ -4,7 +4,7 @@
 \name{ex6.2}
 \alias{ex6.2}
 \title{Exhibit 6.2}
-\format{A data frame with 19 observations of 5 variables:
+\format{A data frame with 19 observations of 5 variables.
 \describe{
   \item{Name}{Student's name}
   \item{Sex}{Sex of the student: coded as F or M}
@@ -12,10 +12,14 @@
   \item{Height}{Height of the student in inches}
   \item{Weight}{Weight of the student in pounds}
 }}
+\source{
+<http://www.dataanalysisbook.com/datasetsInTextbook.html>
+}
 \usage{
 ex6.2
 }
 \description{
-Sex, age (years), height (in.), and weight (lbs.) of 19 middle school students.
+Sex, age, height, and weight of 19 middle school students. This dataset
+appears in many of the examples in SAS software.
 }
 \keyword{datasets}

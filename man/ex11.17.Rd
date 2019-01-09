@@ -4,23 +4,26 @@
 \name{ex11.17}
 \alias{ex11.17}
 \title{Exhibit 11.17}
-\format{A data frame with 5 observations of 7 variables:
+\format{A data frame with 5 observations of 7 variables.
 \describe{
-  \item{Subject}{}
-  \item{abstract1}{}
-  \item{concrete1}{}
-  \item{abstract2}{}
-  \item{concrete2}{}
-  \item{abstract3}{}
-  \item{concrete3}{}
+  \item{Subject}{The participant's ID}
+  \item{abstract1}{Number of words recalled (abstract words, 1 minute)}
+  \item{concrete1}{Number of words recalled (concrete words, 1 minute)}
+  \item{abstract2}{Number of words recalled (abstract words, 2 minutes)}
+  \item{concrete2}{Number of words recalled (concrete words, 2 minutes)}
+  \item{abstract3}{Number of words recalled (abstract words, 3 minutes)}
+  \item{concrete3}{Number of words recalled (concrete words, 3 minutes)}
 }}
+\source{
+<http://www.dataanalysisbook.com/datasetsInTextbook.html>
+}
 \usage{
 ex11.17
 }
 \description{
-Data for a 3 x 2 within-subject design
-}
-\details{
-TODO: what was the experiment?
+Data from a study where study time and word abstraction were manipulated to
+observe their effects on memory. Participants studied lists of either
+abstract or concrete words for either 1, 2, or 3 minutes. Participants
+took a test following each of the 6 lists.
 }
 \keyword{datasets}

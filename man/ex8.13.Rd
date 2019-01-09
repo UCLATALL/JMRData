@@ -4,15 +4,19 @@
 \name{ex8.13}
 \alias{ex8.13}
 \title{Exhibit 8.13}
-\format{A data frame with 18 observations of 2 variables:
+\format{A data frame with 18 observations of 2 variables.
 \describe{
-  \item{Program}{The program: clinical, developmental, or social}
+  \item{Program}{The program: clinical, developmental, experimental, or social}
   \item{GRE}{Student's GRE score}
 }}
+\source{
+<http://www.dataanalysisbook.com/datasetsInTextbook.html>
+}
 \usage{
 ex8.13
 }
 \description{
-GRE scores from students in one of three training programs in psychology.
+Hypothetical GRE scores from students in one of four training programs in
+psychology.
 }
 \keyword{datasets}
